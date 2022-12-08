@@ -5,6 +5,7 @@ for (var i = 1; i <= num; i++) {
     count++;
   }
 }
+var num = 10;
 if (count == 2) {
   console.log(" Prime Number");
 }
